@@ -56,7 +56,6 @@ Streamlit app that auto-categorizes bank transactions using **TF-IDF** vectoriza
 **[📄 Skill Gap Detector](https://github.com/Geetanjali098/Skill-Gap-Detector-)**
 Analyzes resumes, extracts key skills, and compares them against a job description to surface missing skills.
 `Python` `NLP` `Resume Parsing`
-
 </td>
 </tr>
 <tr>

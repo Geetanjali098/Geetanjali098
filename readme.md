@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:geetanjalinishad0109@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Geetanjali098/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -60,13 +60,6 @@ Analyzes resumes, extracts key skills, and compares them against a job descripti
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**[📊 Smart Habit Analyzer](https://github.com/Geetanjali098/smart-habit-analyzer)**
-Streamlit app predicting daily productivity (Low/Medium/High) from sleep, study, and screen-time inputs.
-`Python` `Streamlit` `Predictive Modeling`
-
-</td>
 
 </tr>
 </table>

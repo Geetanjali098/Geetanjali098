@@ -67,10 +67,7 @@ Streamlit app predicting daily productivity (Low/Medium/High) from sleep, study,
 `Python` `Streamlit` `Predictive Modeling`
 
 </td>
-<td width="50%">
 
-
-</td>
 </tr>
 </table>
 
